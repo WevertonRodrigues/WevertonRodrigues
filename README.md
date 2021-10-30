@@ -39,7 +39,6 @@
     <span>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=f54842&bg_color=211111&text_color=38d5ff" alt="Top langs" height=175 />
     </span>
-    <img width="10px" />
     <span>
       <img src="https://github-readme-stats.vercel.app/api?username=WevertonRodrigues&show_icons=true&title_color=f54842&bg_color=211111&text_color=38d5ff&icon_color=f5f5f5" alt="Weverton's Top Langs" height=175 />
     </span>
